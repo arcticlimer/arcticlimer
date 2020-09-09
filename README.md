@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="readme_pic.png" width="750px">
+<img src="https://github.com/arcticlimer/arcticlimer/blob/master/readme_pic.png" width="750px">
 
 ######
 
